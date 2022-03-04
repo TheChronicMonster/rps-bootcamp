@@ -76,7 +76,7 @@ What's wrong with `transfer()` in this block:
     outcome == 0 ? [       0,      2] :
     /* tie      */ [       1,      1];
   transfer(forBob * wager).to(Alice);
-  transfer(forBob   * wager).to(Alice);
+  transfer(forBob * wager).to(Alice);
   commit();
 ```
 

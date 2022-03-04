@@ -38,7 +38,7 @@ There are two ways that non-participation can be dealt with: Punishment and Disi
 
 Punishment involves taking assets from non-participating actors. However, the timeout threshold must be judiciously set or honest, but delayed, participants could be punished, unjustly. 
 
-Disincentivizing can be an effective strategy when participants are asked to stake 10x more than their wager in order to ensure timely participation. 
+Disincentivizing can be an effective strategy when participants are asked to stake 10x, or some significant amount, more than their wager in order to ensure timely participation. 
 
 Read more about timeouts in our [guide](https://docs.reach.sh/guide/timeout/#guide-timeout).
 
@@ -79,7 +79,7 @@ exit();
 ```
 
 ---
-_Code it_
+### _Code it_
 
 Write a code block that instructs a participant, Eve, to publish her `callLog` and attach a `timeout()` method that accepts a `relativeTime`, which accepts an argument, `deadline`. If the `deadline` is triggered, the contract should perform a `closeTo` for "Alice" and trigger the function `timeExpiration`.
 ---
