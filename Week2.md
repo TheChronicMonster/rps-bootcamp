@@ -87,7 +87,7 @@ Type out the starter code below and then complete the steps under the "[Explore 
 ``` rsh
 'reach 0.1';
 
-const commonInteract - {};
+const commonInteract = {};
 const sellerInteract = { ...commonInteract };
 const buyerInteract = { ...commonInteract };
 
@@ -106,7 +106,7 @@ import {loadStdlib } from '@reach-sh/stdlib';
 import * as backend from './build/index.main.mjs';
 
 const role = 'seller';
-consle.log(`Your role is ${role}.`);
+console.log(`Your role is ${role}.`);
 
 const stdlib = loadStdlib(process.env);
 console.log(`The consensus network is ${stdlib.connector}.`);
