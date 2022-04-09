@@ -126,7 +126,7 @@ _Write an interact expression that binds the resulting value of interacting with
 
 _Write an interact expression that binds the value of `seePrice` for the `Bidder` participant. Assign the expression to a `const` "price"_
 
-_Write an interact expression that binds the value of `seeDescription` for the `Buyer` participant. Assign the expression to a `const` "description"_
+_Write an interact expression that binds the value of `getDescription` for the `Buyer` participant. Assign the expression to a `const` "description"_
 
 ---
 
