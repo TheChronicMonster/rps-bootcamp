@@ -6,9 +6,7 @@
 
 [Repo](https://github.com/TheChronicMonster/rps-bootcamp)
 
-[Week 4 Multiple Choice](https://forms.gle/2NMNA7nfSmyiy3n89)
-
-[Week 4 Quiz](https://forms.gle/vUPAkRHkFHpg6wW68)
+[Week 4 Quiz](https://reachsh.typeform.com/to/Zmb2oyfr)
 
 Complete the "Code It" portion in a [secret gist](https://gist.github.com) and share the link with your mentor.
 
