@@ -7,9 +7,7 @@
 
 [Repo](https://github.com/TheChronicMonster/rps-bootcamp)
 
-[Week 5 Multiple Choice](https://forms.gle/nBeWVJ6DGQCGCDSR8)
-
-[Week 5 Quiz](https://forms.gle/hL6D8b9bCKUwgnvK7)
+[Week 5 Quiz](https://reachsh.typeform.com/to/kxSrAj0H)
 
 Complete the "Code It" portion in a [secret gist](https://gist.github.com) and share the link with your mentor.
 
@@ -182,9 +180,68 @@ Reach requires that `continue` be explicitly written into the loop body. `contin
 ---
 ### _Code it_
 
-Review your gist for Pat and Vanna from lessons 1 and 2. Use the starter code you created to create a while loop for Pat and Vanna's contract. 
+Write your own while loop
 
-The while loop should allow Pat and Vanna to each get two challenges and see the result of the challenge in their local step.
+Alice and Bob are going to tell fortunes. 
+Alice pays the contract.
+Bob reads the fortune.
+Alice decides if she accepts the fortune.
+If she does, then Bob accepts payment.
+However, if Alice decides that the fortune is false then Bob must read a new fortune.
+Alice again has the opportunity to decide if the fortune is true or false.
+
+For a challenge, build the entire program yourself!
+
+I created this program by taking inspiration from Rock, Paper, Scissors. You can use the tutorial as a guide to create your own program.
+
+Hints below...
+
+
+
+
+Really, hints below...
+
+
+
+Write three fortunes.
+Write two possible decisions: true or false
+
+
+
+Guidance for the loop below....
+
+
+
+
+
+For the loop:
+
+The variable is Alice's decision. 
+If she decides the fortune is false the loop continues.
+If she decides the fortune is true, then the loop ends.
+
+
+
+More hints.....
+
+
+
+
+The invariant is the equality of the balance and the payment.
+
+
+
+The while loop continues as long as while is equal to zero, which is equivalent to false.
+
+
+
+The outcome can change.
+
+
+Have fun!
+If you need help, reach out in Discord.
+If you'd like codebase for backend or frontend just send me a DM.
+
 ---
 
 ## Independent Project
@@ -198,4 +255,6 @@ Only use the resource as a last resort. When you use it, flip between the resour
 Resource [link](https://github.com/algorand-devrel/Reach-Morra-Game/tree/main/morra2)
 
 ## Quiz
+
+https://reachsh.typeform.com/to/kxSrAj0H
 
