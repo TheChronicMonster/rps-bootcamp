@@ -1,6 +1,12 @@
 # Week 2
 # Bets and Wagers
 
+## Links
+
+[Short Answer Quiz](https://bit.ly/35Be1jH)
+
+[Multiple Choice Quiz](https://bit.ly/3tLFzeh)
+
 ## Knowledge Reinforcement
 
 In this unit, you'll become acquainted with creating currency for test accounts and using the pay and transfer methods.

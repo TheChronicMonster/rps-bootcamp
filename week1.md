@@ -5,9 +5,13 @@
 
 Complete this week's multiple choice questions and quiz by following the links below:
 
-[Multiple Choice submission form](https://forms.gle/EfGpbTnVR68gR8iV9)
+[Deck](https://docs.google.com/presentation/d/1rCT-MtNCXAan_Q1fqfAiyHRT7fXMw_Nw0VaVaoOnxWY/edit?usp=sharing)
 
-[Week 1 Quiz](https://forms.gle/TmP9MVQLsqEAPq7u8)
+[Multiple Choice submission form](https://bit.ly/3tGnKgC)
+
+[Week 1 Quiz](https://bit.ly/3Cz0y7V)
+
+[GitHub Repo](https://github.com/TheChronicMonster/rps-bootcamp/blob/main/week1.md)
 
 Complete the "Code It" portions in a [secret gist](https://gist.github.com) and share the link with your mentor.
 
